@@ -1,13 +1,14 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=2990BD&width=435&lines=Hola!+soy+Raquel+Rosales)](https://git.io/typing-svg)
+### 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=23&pause=1000&color=2990BD&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=HOLA!+SOY+RAQUEL+ROSALES;BIENVENIDOS+A+MI+PERFIL!" alt="Typing SVG" /></a>
+</p>  
+<p align="center">
+  <img src="https://github.com/lraquel/lraquel/blob/3f7a9c98f812828ed3227ccff0b95ccf6759600c/raquel1.gif/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-[![Header|300]( https://github.com/lraquel/lraquel/blob/3f7a9c98f812828ed3227ccff0b95ccf6759600c/raquel1.gif
-"Header")]( https://github.com/lraquel?sub_confirmation=1)
-
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=2990BD&width=435&lines=Bienvenidos+a+mi+perfil)](https://git.io/typing-svg)
 
 ---
-
+## 👉 Sobre mí
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
