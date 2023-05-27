@@ -1,9 +1,12 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=2990BD&width=435&lines=Hola!+soy+Raquel+Rosales)](https://git.io/typing-svg)
 
-<!--
-**lraquel/lraquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header|300]( https://github.com/lraquel/lraquel/blob/3f7a9c98f812828ed3227ccff0b95ccf6759600c/raquel1.gif
+"Header")]( https://github.com/lraquel?sub_confirmation=1)
 
-Here are some ideas to get you started:
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=2990BD&width=435&lines=Bienvenidos+a+mi+perfil)](https://git.io/typing-svg)
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
