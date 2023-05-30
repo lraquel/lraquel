@@ -25,9 +25,33 @@
      
   
 ---
-  <h3 align="center">Tecnologías / Lenguajes de Programación</h3>
-
-
+  <h3 align="center">Lenguajes de Programación y Marcado</h3>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css" />
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+<h3 align="center">Frameworks - Librerías</h3>  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,flask,materialui,jest" />
+  </a>
+</p>
+<h3 align="center">Databases - Cloud Hosting</h3>  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+   <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a> 
+</p>
+<h3 align="center">Software - Tools</h3>  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,discord,autocad,sketchup" />
+  </a> 
+</p>  
 
 </div>
 
