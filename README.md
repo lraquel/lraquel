@@ -9,7 +9,7 @@
 
 
 ---
-## 👩‍💻 💾💻 Soy **Desarrollador Fullstack** e **Ingeniero Civil** 🚧 👷‍♀️ 
+## 👩‍💻 💾💻 Soy **Desarrollador Full Stack** e **Ingeniero Civil** 🚧 👷‍♀️ 
    Siquieres conocer más de mí y mi trayectoria te invito a pasar por aquí   
   <p align="center">
     <a href="https://www.linkedin.com/in/lraquel/" target="_blank" rel="noopener noreferrer">
@@ -51,8 +51,17 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,discord,autocad,sketchup" />
   </a> 
-</p>  
+</p>      
+</div>  
 
-</div>
+---
+## 📈 Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lraquel&theme=onedark-duo&mode=weekly)](https://git.io/streak-stats)   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lraquel&show_icons=true&theme=flag-india)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lraquel&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
