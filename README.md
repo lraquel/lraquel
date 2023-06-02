@@ -18,7 +18,7 @@
   </p>
   <h6 align="center">Developer CV</h6>
   <p align="center">
-    <a href="https://drive.google.com/file/d/1XlPRi-p0kH6TZNkn6rp-SfcPorTZ7gcQ/view?usp=share_link" target="_blank" rel="noopener noreferrer">
+    <a href="https://drive.google.com/file/d/1HOuE_-q6GuiWZ_s6_VAKdIOP8UE89eXw/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
       <img src="https://github.com/lraquel/lraquel/blob/55c1e0ad221a86d68c7f33059f8f53584908b879/cv_icon.png" alt="developer resume" />
     </a>
   </p> 
