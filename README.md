@@ -49,7 +49,7 @@
 <h3 align="center">Software - Tools</h3>  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,discord,autocad,sketchup" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,discord,autocad,sketchup"/>
   </a> 
 </p>      
 </div>  
