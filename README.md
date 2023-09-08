@@ -58,7 +58,7 @@
 ## 📈 Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=lraquel)](https://github.com/lraquel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lraquel=anuraghazra&hide_progress=true)
 
 
 
