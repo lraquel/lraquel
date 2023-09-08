@@ -57,11 +57,9 @@
 ---
 ## 📈 Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lraquel&theme=onedark-duo&mode=weekly)](https://git.io/streak-stats)   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lraquel&show_icons=true&theme=flag-india)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=lraquel)](https://github.com/lraquel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lraquel&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
